@@ -34,7 +34,7 @@ Table 3. Quantitative pose comparison on C3VD dataset.
 
 
 #### Figure 2. Pose results comparison on the C3VD dataset.
-![pose-git1.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Ftmp%2Ffuse%2Fpose-git1.png)
+![pose-git1](https://github.com/user-attachments/assets/20cb8272-7365-44cc-90e4-6e1db1def301)
 
 
 ## Initialization
