@@ -59,7 +59,7 @@ Download dataset from:[simcol](https://github.com/anitarau/simcol). The training
 
 ## Usage
 ### Training
-If accepted, it will be made public.
+The code will be released as soon as possible.
 
 ### Evaluation
 ```
