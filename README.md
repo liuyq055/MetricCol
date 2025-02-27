@@ -1,5 +1,4 @@
-![rpe_error](https://github.com/user-attachments/assets/cba36aae-9be1-4f75-8fe6-ed73123691b2)# MetricCol
-MetricCol: Absolute-Scale Depth and Pose Estimation in Colonoscopy via Geometric Consistency and Domain Adaptation
+# MetricCol: Absolute-Scale Depth and Pose Estimation in Colonoscopy via Geometric Consistency and Domain Adaptation
 ## Abstract
 Accurate metric depth and pose estimation are critical for colonoscopic navi-gation and lesion localization. However, existing methods often struggle with scale ambiguity and domain gaps between synthetic and real datasets. To ad-dress these issues, we propose a novel framework consisting of two stages: 1) a fully supervised depth estimation model utilizing synthetic data with anatomi-cal priors to bridge the domain gap between synthetic and real datasets, and 2) a weakly supervised joint learning approach combining camera-aware depth scaling with uncertainty-driven pseudo-labeling to refine metric depth and pose estimation. We validate the framework on both synthetic and real colon-oscopy datasets, achieving superior performance in metric depth (RMSE=3.5408) and pose estimation (average ATE=0.6143). Experimental re-sults on both synthetic and real colonoscopy datasets show superior perfor-mance, robustness under challenging conditions, and demonstrate the clinical applicability of our method. 
 
