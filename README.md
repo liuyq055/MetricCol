@@ -20,9 +20,9 @@ pip install -r requirements.txt
 Download pretrained model from: [depth_anything_vitb14](https://drive.google.com/file/d/163ILZcnz_-IUoIgy1UF_r7PAQBqgDbll/view?usp=sharing). Create a folder named ```pretrained_model``` in this repo and place the downloaded model in it.
 
 ## Dataset 
-###C3VD Dataset.
+### C3VD Dataset.
 Download dataset from :[c3vd](https://durrlab.github.io/C3VD/).For the training set, we selected the following samples: c2v2, c3v1, c1v1, t1v2, t3v2, c1v2, s3v1, t4v2, t1v1, t2v1, c2v3, t2v2, and s2v1. The validation set in-cludes: c4v2, c2v1, t2v3, and s1v1. The test set contains: t3v1, c4v1, and d4v1.
-###SimCol Dataset. 
+### SimCol Dataset. 
 Download dataset from:[simcol](https://github.com/anitarau/simcol). The training set consists of 25,942 images, the validation set includes 2,882 imag-es, and the test set contains 9,009 images
 
 ## Usage
