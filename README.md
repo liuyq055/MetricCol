@@ -17,6 +17,8 @@ Table 2. Quantitative depth comparison on C3VD dataset.
 |      | AF                 | 0.2813   | 3.7943  | 12.1886 | 0.3549   | 0.4674  | 0.8043  | 0.9398  |
 |      | ED                  | 0.3432   | 6.1716  | 14.3523 | 0.4136   | 0.4159  | 0.7384  | 0.8986  |
 |      | Ours([Baidu Netdisk](https://pan.baidu.com/s/1Osp-iavHERogxzs2XF-zng?pwd=jw3M))                   | 0.0953   | 0.4019  | 3.5408  | 0.1158   | 0.9429  | 0.9963  | 0.9998  |
+
+
 提取码：jw3M 
 ![depth-git](https://github.com/user-attachments/assets/86bc663a-d082-4eed-a473-694bb615ddfa)
 Figure 1. Depth results comparison on the C3VD dataset.
@@ -32,8 +34,9 @@ Table 3. Quantitative pose comparison on C3VD dataset.
 | Ours   | 0.1486   | 0.1317       | 1.2176  | 1.1370       | 0.6735   | 0.5741       |
 
 
-![pose-git1](https://github.com/user-attachments/assets/e4e557f2-4966-4b51-911c-71f0ace3615c)
+![Uploading pose-git1.png…]()
 Figure 2. Pose results comparison on the C3VD dataset.
+
 ## Initialization
 
 Create an environment with conda:
